@@ -1,6 +1,6 @@
 # TaxShield
 
-Production-style fintech simulation for UBA SME banking with tax automation.
+
 
 ## Features
 - JWT login
@@ -17,8 +17,6 @@ cd taxshield-app/docker
 docker compose up --build
 ```
 
-Frontend: http://localhost:3000  
-Backend docs: http://localhost:8000/docs
 
 Demo login:
 - email: `demo@taxshield.com`
